@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando no Sushikito <br/> Eu sou desenvolvedor de novos saboras de sushis</p>
+<p>Estudando no CECAC CCM <br/> Eu sou uma estudante de Sistemas</p>
